@@ -13,5 +13,4 @@ Implementation of PCA (Principal Component Analysis) and ICA (Independent Compon
 The mixing matrix:
 
 [0.5 1
-
  1 0.5]
