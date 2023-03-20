@@ -11,6 +11,5 @@ Implementation of PCA (Principal Component Analysis) and ICA (Independent Compon
 - I mix them using a mixing matrix and then perform ICA to get the independent components.
 
 The mixing matrix:
-
-[0.5 1
- 1 0.5]
+        [ 1  0.5]       
+        [ 0.5  1]   
